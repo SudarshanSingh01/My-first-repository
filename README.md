@@ -1,2 +1,2 @@
 # My-first-repository
-I am going start a coding jury
+Planting the first seed in my coding garden—watch it grow into something extraordinary.
